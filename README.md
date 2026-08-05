@@ -14,6 +14,12 @@ Repositorio de referencia (estructura base): [cristianzambrano/panel-openaq](htt
 - **Mediciones por sensor**: al seleccionar un sensor, se listan sus mediciones registradas (fecha, valor, unidad, parámetro y período de agregación).
 - **Diseño responsivo**, adaptado a computadora, tablet y dispositivos móviles.
 
+- <img width="856" height="397" alt="image" src="https://github.com/user-attachments/assets/e85e7728-8e45-4007-82cf-ae8338d29802" />
+<img width="858" height="347" alt="image" src="https://github.com/user-attachments/assets/8bbdf716-5f18-4ab1-8e2b-1c6d2e159b0d" />
+<img width="913" height="444" alt="image" src="https://github.com/user-attachments/assets/bb8ffb9c-cf33-41ce-bd09-d20756c34915" />
+<img width="902" height="459" alt="image" src="https://github.com/user-attachments/assets/15f8b17b-5113-4638-982f-d159afe9afd0" />
+
+
 ## Tecnologías utilizadas
 
 - [React](https://react.dev/) 19 (componentes funcionales)
